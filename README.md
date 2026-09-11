@@ -36,7 +36,7 @@ Total: **16,282** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,513 · **Forks**: 317 · **Open issues**: 55 · **Contributors**: 26
+- **Stars**: 3,526 · **Forks**: 319 · **Open issues**: 55 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -94,4 +94,4 @@ Install metadata for abtop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:16:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:38:11Z._
