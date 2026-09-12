@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 678236,
       "digest": "sha256:c35e3c3a66d8c8f90835e479445ca643872ebdcc5c1577944285a16661b17683",
-      "download_count": 718,
+      "download_count": 728,
       "created_at": "2026-07-07T04:23:18Z",
       "updated_at": "2026-07-07T04:23:18Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:74305b7dc0d8478f03bc2592d81a67cc35beff098a4a67fa7e7a7ae6b6091f7b",
-      "download_count": 41,
+      "download_count": 48,
       "created_at": "2026-07-07T04:23:18Z",
       "updated_at": "2026-07-07T04:23:18Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-apple-darwin.tar.xz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21801,
       "digest": "sha256:f7be06431f30efe41a0e6c4b6faa3e0f199dd8954e44fcc3b2343c0559343b6e",
-      "download_count": 305,
+      "download_count": 312,
       "created_at": "2026-07-07T04:23:18Z",
       "updated_at": "2026-07-07T04:23:19Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-installer.ps1"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 54936,
       "digest": "sha256:f0ab24844fd9a84efe3b2772326454173369ebd653cf8bedf9b537b17d80a3b4",
-      "download_count": 1138,
+      "download_count": 1147,
       "created_at": "2026-07-07T04:23:19Z",
       "updated_at": "2026-07-07T04:23:19Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-installer.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 964083,
       "digest": "sha256:36d0bf6d55f7662ed34fc73b6b1e31d206549beb6530c7bf1f45d4f2c3170f31",
-      "download_count": 475,
+      "download_count": 482,
       "created_at": "2026-07-07T04:23:19Z",
       "updated_at": "2026-07-07T04:23:19Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 801084,
       "digest": "sha256:840d2a5148a70aa907c1326ea72642891304e9e81cf997e684a1151055b5ad3a",
-      "download_count": 647,
+      "download_count": 650,
       "created_at": "2026-07-07T04:23:19Z",
       "updated_at": "2026-07-07T04:23:19Z",
       "browser_download_url": "https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-unknown-linux-gnu.tar.xz"
