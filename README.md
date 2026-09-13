@@ -36,7 +36,7 @@ Total: **16,282** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,530 · **Forks**: 319 · **Open issues**: 55 · **Contributors**: 26
+- **Stars**: 3,542 · **Forks**: 320 · **Open issues**: 55 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **16,282** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 1 | 2 | 1 | 0 | 1 |
-| last60d | 2026-07-14 | 0 | 2 | 5 | 3 | 5 | 2 |
-| 90d | 2026-06-14 | 4 | 7 | 7 | 5 | 8 | 16 |
-| last180d | 2026-03-16 | 38 | 83 | 11 | 37 | 18 | 349 |
-| 360d | 2025-09-17 | 38 | 83 | 11 | 37 | 18 | 349 |
-| last720d | 2024-09-22 | 38 | 83 | 11 | 37 | 18 | 475 |
+| 30d | 2026-08-14 | 0 | 1 | 2 | 1 | 0 | 1 |
+| last60d | 2026-07-15 | 0 | 2 | 5 | 3 | 4 | 2 |
+| 90d | 2026-06-15 | 4 | 7 | 7 | 5 | 7 | 16 |
+| last180d | 2026-03-17 | 38 | 83 | 11 | 37 | 18 | 349 |
+| 360d | 2025-09-18 | 38 | 83 | 11 | 37 | 18 | 349 |
+| last720d | 2024-09-23 | 38 | 83 | 11 | 37 | 18 | 475 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for abtop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:15:04Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:22:38Z._
