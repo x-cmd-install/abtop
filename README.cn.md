@@ -14,11 +14,11 @@ x install abtop
 
 ## 代码洞察
 
-合计: **16,282** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
+合计: **17,144** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 16,198 | 732 | 1,499 | 36 |
+| Rust | 17,060 | 759 | 1,556 | 36 |
 | Toml | 44 | 11 | 6 | 2 |
 | Sh | 40 | 10 | 3 | 1 |
 | Markdown | 0 | 397 | 129 | 3 |
@@ -30,60 +30,52 @@ x install abtop
 
 ## 发布
 
-- **最新版本**: `v0.5.3` (2026-07-07)
-- **最近提交**: 2026-09-10
+- **最新版本**: `v0.5.5` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 3,542 · **Fork**: 320 · **开放 issue**: 55 · **贡献者**: 26
+- **Star**: 3,550 · **Fork**: 320 · **开放 issue**: 55 · **贡献者**: 27
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 83 · **开放 PR**: 11 · **已关闭 issue**: 37 · **开放 issue**: 18 · **提交数**: 475
+- **发布数**: 40 · **已合并 PR**: 86 · **开放 PR**: 9 · **已关闭 issue**: 38 · **开放 issue**: 17 · **提交数**: 487
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 2 | 1 | 0 | 1 |
-| last60d | 2026-07-15 | 0 | 2 | 5 | 3 | 4 | 2 |
-| 90d | 2026-06-15 | 4 | 7 | 7 | 5 | 7 | 16 |
-| last180d | 2026-03-17 | 38 | 83 | 11 | 37 | 18 | 349 |
-| 360d | 2025-09-18 | 38 | 83 | 11 | 37 | 18 | 349 |
-| last720d | 2024-09-23 | 38 | 83 | 11 | 37 | 18 | 475 |
+| 30d | 2026-08-15 | 2 | 3 | 1 | 1 | 0 | 6 |
+| last60d | 2026-07-16 | 2 | 5 | 3 | 4 | 3 | 6 |
+| 90d | 2026-06-16 | 6 | 10 | 5 | 6 | 6 | 20 |
+| last180d | 2026-03-18 | 40 | 86 | 9 | 38 | 17 | 355 |
+| 360d | 2025-09-19 | 40 | 86 | 9 | 38 | 17 | 355 |
+| last720d | 2024-09-24 | 40 | 86 | 9 | 38 | 17 | 487 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [abtop-aarch64-apple-darwin.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-apple-darwin.tar.xz) | 662.3 KiB | `native/darwin/arm64` |
-| [abtop-aarch64-apple-darwin.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-apple-darwin.tar.xz.sha256) | 101 B | `native/darwin/arm64` |
-| [abtop-aarch64-pc-windows-msvc.zip](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-pc-windows-msvc.zip) | 898.5 KiB | `native/win/arm64` |
-| [abtop-aarch64-pc-windows-msvc.zip.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-pc-windows-msvc.zip.sha256) | 101 B | `native/win/arm64` |
-| [abtop-aarch64-unknown-linux-gnu.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-unknown-linux-gnu.tar.xz) | 698.5 KiB | `native/linux/arm64/glibc` |
-| [abtop-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-aarch64-unknown-linux-gnu.tar.xz.sha256) | 106 B | `native/linux/arm64/glibc` |
-| [abtop-installer.ps1](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-installer.ps1) | 21.3 KiB | `other` |
-| [abtop-installer.sh](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-installer.sh) | 53.6 KiB | `other` |
-| [abtop-x86_64-apple-darwin.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-apple-darwin.tar.xz) | 747.7 KiB | `native/darwin/x64` |
-| [abtop-x86_64-apple-darwin.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/x64` |
-| [abtop-x86_64-pc-windows-msvc.zip](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-pc-windows-msvc.zip) | 941.5 KiB | `native/win/x64` |
-| [abtop-x86_64-pc-windows-msvc.zip.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/x64` |
-| [abtop-x86_64-unknown-linux-gnu.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-unknown-linux-gnu.tar.xz) | 782.3 KiB | `native/linux/x64/glibc` |
-| [abtop-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop-x86_64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/x64/glibc` |
-| [abtop.rb](https://github.com/graykode/abtop/releases/download/v0.5.3/abtop.rb) | 2.3 KiB | `other` |
-| [dist-manifest.json](https://github.com/graykode/abtop/releases/download/v0.5.3/dist-manifest.json) | 24.1 KiB | `other` |
-| [sha256.sum](https://github.com/graykode/abtop/releases/download/v0.5.3/sha256.sum) | 688 B | `other` |
-| [source.tar.gz](https://github.com/graykode/abtop/releases/download/v0.5.3/source.tar.gz) | 14.9 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.3/source.tar.gz.sha256) | 81 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/abtop) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.5.3` | ✅ latest |
+| [abtop-aarch64-apple-darwin.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-apple-darwin.tar.xz) | 650.6 KiB | `native/darwin/arm64` |
+| [abtop-aarch64-apple-darwin.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-apple-darwin.tar.xz.sha256) | 101 B | `native/darwin/arm64` |
+| [abtop-aarch64-pc-windows-msvc.zip](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-pc-windows-msvc.zip) | 898.6 KiB | `native/win/arm64` |
+| [abtop-aarch64-pc-windows-msvc.zip.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-pc-windows-msvc.zip.sha256) | 101 B | `native/win/arm64` |
+| [abtop-aarch64-unknown-linux-gnu.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-unknown-linux-gnu.tar.xz) | 684.4 KiB | `native/linux/arm64/glibc` |
+| [abtop-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-unknown-linux-gnu.tar.xz.sha256) | 106 B | `native/linux/arm64/glibc` |
+| [abtop-installer.ps1](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-installer.ps1) | 21.3 KiB | `other` |
+| [abtop-installer.sh](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-installer.sh) | 53.6 KiB | `other` |
+| [abtop-x86_64-apple-darwin.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-apple-darwin.tar.xz) | 732.7 KiB | `native/darwin/x64` |
+| [abtop-x86_64-apple-darwin.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/x64` |
+| [abtop-x86_64-pc-windows-msvc.zip](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-pc-windows-msvc.zip) | 937.5 KiB | `native/win/x64` |
+| [abtop-x86_64-pc-windows-msvc.zip.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/x64` |
+| [abtop-x86_64-unknown-linux-gnu.tar.xz](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-unknown-linux-gnu.tar.xz) | 769.6 KiB | `native/linux/x64/glibc` |
+| [abtop-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/x64/glibc` |
+| [abtop.rb](https://github.com/graykode/abtop/releases/download/v0.5.5/abtop.rb) | 2.3 KiB | `other` |
+| [dist-manifest.json](https://github.com/graykode/abtop/releases/download/v0.5.5/dist-manifest.json) | 24.1 KiB | `other` |
+| [sha256.sum](https://github.com/graykode/abtop/releases/download/v0.5.5/sha256.sum) | 688 B | `other` |
+| [source.tar.gz](https://github.com/graykode/abtop/releases/download/v0.5.5/source.tar.gz) | 15.0 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -94,4 +86,4 @@ abtop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:22:38Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:35:33Z._
