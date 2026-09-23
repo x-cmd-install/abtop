@@ -4,7 +4,7 @@
 
 Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 
-[![x-cmd/install — abtop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/abtop.svg)](https://x-cmd.com/install/abtop)
+[![x-cmd/install — abtop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/abtop.svg)](https://x-cmd.com/install/abtop)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **17,144** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,573 · **Forks**: 322 · **Open issues**: 55 · **Contributors**: 27
+- **Stars**: 3,589 · **Forks**: 323 · **Open issues**: 55 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **17,144** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 2 | 1 | 1 | 0 | 5 |
-| last60d | 2026-07-24 | 2 | 3 | 3 | 1 | 1 | 6 |
-| 90d | 2026-06-24 | 6 | 9 | 4 | 4 | 6 | 20 |
-| last180d | 2026-03-26 | 40 | 86 | 9 | 38 | 17 | 254 |
-| 360d | 2025-09-27 | 40 | 86 | 9 | 38 | 17 | 355 |
-| last720d | 2024-10-02 | 40 | 86 | 9 | 38 | 17 | 487 |
+| 30d | 2026-08-24 | 2 | 2 | 1 | 1 | 0 | 5 |
+| last60d | 2026-07-25 | 2 | 3 | 3 | 1 | 1 | 6 |
+| 90d | 2026-06-25 | 6 | 9 | 4 | 4 | 5 | 20 |
+| last180d | 2026-03-27 | 40 | 86 | 9 | 38 | 17 | 254 |
+| 360d | 2025-09-28 | 40 | 86 | 9 | 38 | 17 | 355 |
+| last720d | 2024-10-03 | 40 | 86 | 9 | 38 | 17 | 487 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for abtop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:29:55Z._
