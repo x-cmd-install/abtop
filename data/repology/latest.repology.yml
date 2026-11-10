@@ -10,6 +10,20 @@
     - iamkarlson@aur
   licenses:
     - MIT
+- repo: homebrew
+  srcname: abtop
+  visiblename: abtop
+  version: 0.5.5
+  origversion: null
+  status: newest
+  summary: Terminal monitor for AI coding agent sessions
+- repo: homebrew
+  srcname: abtop
+  visiblename: abtop
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal monitor for AI coding agent sessions
 - repo: nix_unstable
   srcname: abtop
   visiblename: abtop
