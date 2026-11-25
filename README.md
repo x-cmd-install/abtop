@@ -36,7 +36,7 @@ Total: **17,144** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,879 · **Forks**: 349 · **Open issues**: 63 · **Contributors**: 27
+- **Stars**: 3,880 · **Forks**: 349 · **Open issues**: 63 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **17,144** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 7 | 0 | 6 | 0 |
-| 90d | 2026-08-26 | 2 | 2 | 8 | 1 | 8 | 5 |
-| last180d | 2026-05-28 | 9 | 15 | 12 | 7 | 16 | 31 |
-| 360d | 2025-11-29 | 40 | 86 | 16 | 38 | 25 | 355 |
-| last720d | 2024-12-04 | 40 | 86 | 16 | 38 | 25 | 487 |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 7 | 0 | 5 | 0 |
+| 90d | 2026-08-27 | 2 | 2 | 8 | 1 | 8 | 5 |
+| last180d | 2026-05-29 | 8 | 14 | 12 | 7 | 16 | 31 |
+| 360d | 2025-11-30 | 40 | 86 | 16 | 38 | 25 | 355 |
+| last720d | 2024-12-05 | 40 | 86 | 16 | 38 | 25 | 487 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Total: **17,144** lines of code across **42** files in the top 5 languages.
 | [source.tar.gz](https://github.com/graykode/abtop/releases/download/v0.5.5/source.tar.gz) | 15.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/graykode/abtop/releases/download/v0.5.5/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/abtop). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.5.5` | ✅ latest |
-| Nix unstable | `0.5.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for abtop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `abtop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for abtop lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:12:38Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:50:06Z._
